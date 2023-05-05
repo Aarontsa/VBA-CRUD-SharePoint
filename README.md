@@ -1,2 +1,2 @@
 # VBA-CRUD-SharePoint
-Use Excel VBA to Read, delete, Update Sharepoint list
+Use Excel VBA to read, delete, Update Sharepoint list
